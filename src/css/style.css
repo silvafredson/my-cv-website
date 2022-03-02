@@ -76,7 +76,7 @@ body {
 } 
 
 .contactInfo {
-    padding-top: 40px;
+    padding-top: 30px;
 }
 
 .title {
@@ -243,9 +243,9 @@ p {
     width:20px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width:700px) {
     .container {
-        margin: 10px;
+        margin: 20px;
         grid-template-columns: repeat(1,1fr);
     }
 }
@@ -254,7 +254,7 @@ p {
     grid-template-columns: repeat(2,1fr);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
     .about .box {
         flex-direction: column;
     }
