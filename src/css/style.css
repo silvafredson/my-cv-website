@@ -30,7 +30,7 @@ body {
 .container .left_side {
     position: relative;
     background: #2B4D8B;
-    padding: 40px;
+    padding: 30px;
 }
 
 .profileText {
@@ -63,7 +63,7 @@ body {
     color: #fff;
     font-size: 1.5em;
     margin-top: 20px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     text-align: center;
     font-weight:600;
     line-height: 1.4em;
@@ -189,14 +189,14 @@ p {
 }
 
 .about .box .year_company h5 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: #848c90;
     font-weight: 600;
 
 }
 
 .about .box .text h4 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: #2a7da2;
     font-size: 16px;
 }
@@ -211,7 +211,7 @@ p {
 }
 
 .skills .box h4 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: #848c99;
     font-weight: 500;
 }
