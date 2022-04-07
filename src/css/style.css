@@ -155,8 +155,6 @@ body {
 
 .goals {
     margin-bottom: 50px; 
-    
-    
 }
 
 .about h2 {
@@ -175,7 +173,7 @@ body {
 }
 
 p {
-    color: #333;
+    color: Black;
 }
 
 .about .box {
@@ -198,7 +196,7 @@ p {
 .about .box .text h4 {
     /* text-transform: uppercase; */
     color: #2a7da2;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .skills .box {
