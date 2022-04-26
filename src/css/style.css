@@ -172,6 +172,14 @@ body {
      margin-bottom: 10px;
 }
 
+.title3 {
+color:#fff;
+   text-transform: uppercase;
+   font-weight: 600;
+   letter-spacing: 1px;
+    margin-top: 40px;
+}
+
 p {
     color: Black;
 }
